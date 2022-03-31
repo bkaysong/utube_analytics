@@ -27,10 +27,10 @@ Elastic(Data2)|2|6|20G|7.17.1|VMware
 HDFS(NameNode)|i5|8|200G|3.2.2|컴퓨터
 HDFS(Worker1)|i7|16|550G|3.2.2|컴퓨터
 HDFS(Worker2)|i5|16|424G|3.2.2|컴퓨터
-HDFS(SecNaNode)|0|0|00G|3.2.2|VMware
-Spark(MasterNo)|0|0|00G|3.1.2|컴퓨터
-Spark(SlaveNo1)|0|0|00G|3.1.2|컴퓨터
-Spark(SlaveNo2)|0|0|00G|3.1.2|컴퓨터
+HDFS(SecNaNode)|4|8|90G|3.2.2|VMware
+Spark(MasterNo)|i5|8|200G|3.1.2|컴퓨터
+Spark(SlaveNo1)|i7|16|550G|3.1.2|컴퓨터
+Spark(SlaveNo2)|i5|16|424G|3.1.2|컴퓨터
 
 ## 프로그램의 설정파일
 
