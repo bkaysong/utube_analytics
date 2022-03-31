@@ -15,6 +15,7 @@
 
 ## 데이터의 구성도
 
+
 ## 시스템 구성
 시스템설명|CPU|메모리|HDD|버전|비고
 ---|---|---|---|---|---|
@@ -23,8 +24,13 @@ Logstash|3|6|20G|1:7.17.1-1|VMware
 Elastic(Master)|2|8|20G|7.17.1|VMware
 Elastic(Data1)|i7|16|422G|7.17.1|컴퓨터
 Elastic(Data2)|2|6|20G|7.17.1|VMware
-
-
+HDFS(NameNode)|i5|8|200G|3.2.2|컴퓨터
+HDFS(Worker1)|i7|16|550G|3.2.2|컴퓨터
+HDFS(Worker2)|i5|16|424G|3.2.2|컴퓨터
+HDFS(SecNaNode)|0|0|00G|3.2.2|VMware
+Spark(MasterNo)|0|0|00G|3.1.2|컴퓨터
+Spark(SlaveNo1)|0|0|00G|3.1.2|컴퓨터
+Spark(SlaveNo2)|0|0|00G|3.1.2|컴퓨터
 
 ## 프로그램의 설정파일
 
