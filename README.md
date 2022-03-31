@@ -31,6 +31,7 @@ HDFS(SecNaNode)|4|8|90G|3.2.2|VMware
 Spark(MasterNo)|i5|8|200G|3.1.2|컴퓨터
 Spark(SlaveNo1)|i7|16|550G|3.1.2|컴퓨터
 Spark(SlaveNo2)|i5|16|424G|3.1.2|컴퓨터
+Spark(SlaveNo3)|i5|16|424G|3.1.2|컴퓨터
 
 ## 프로그램의 설정파일
 
