@@ -14,7 +14,7 @@
 >- 라이브 뉴스 채팅 분석을 통한 우리나라 최근 시사점 파악
 
 ## 데이터의 구성도
-<img width="80%" src="https://user-images.githubusercontent.com/102707438/160984398-535232b2-a7ac-423b-a2f1-67f57883b32b.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/102707438/160986663-7994b16c-5c06-48d0-8d95-57834bc82919.png"/>
 
 ## 시스템 구성
 시스템설명|CPU|메모리|HDD|버전|비고
