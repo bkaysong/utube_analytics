@@ -1,4 +1,4 @@
-# 유투브 데이터를 활용한 데이터 분석
+# 유튜브 데이터를 활용한 데이터 분석
 ----------------------------------
 - 팀명 : 3팀
 - 팀원 : 김선민, 양정헌, 박영후, 송봉기
@@ -21,19 +21,24 @@
 ## 시스템 구성
 시스템설명|CPU|메모리|HDD|버전|비고
 ---|---|---|---|---|---|
-RabbitMQ|2|8|20G|3.6.10|VMware
-Logstash|3|6|20G|1:7.17.1-1|VMware
-Elastic(Master)|2|8|20G|7.17.1|VMware
-Elastic(Data1)|i7|16|422G|7.17.1|컴퓨터
-Elastic(Data2)|2|6|20G|7.17.1|VMware
-HDFS(NameNode)|i5|8|200G|3.2.2|컴퓨터
-HDFS(Worker1)|i7|16|550G|3.2.2|컴퓨터
-HDFS(Worker2)|i5|16|424G|3.2.2|컴퓨터
-HDFS(SecNaNode)|4|8|90G|3.2.2|VMware
-Spark(MasterNo)|i5|8|200G|3.1.2|컴퓨터
-Spark(SlaveNo1)|i7|16|550G|3.1.2|컴퓨터
-Spark(SlaveNo2)|i5|16|424G|3.1.2|컴퓨터
-Spark(SlaveNo3)|i5|16|424G|3.1.2|컴퓨터
+Django_server-Web service|1Core|1G|8G|0|AWS
+Django_server-Web service|1Core|1G|8G|0|AWS
+Python(crawling)-유튜브 실시간 채팅|6Core|10G|0|AWS
+Python(crawling)-유투브 인기영상중 카테고리들|6Core|10G|0|AWS
+RabbitMQ|2Core|8G|20G|3.6.10|VMware
+Logstash|3Core|6G|20G|1:7.17.1-1|VMware
+Elastic(Master)|2Core|8G|20G|7.17.1|VMware
+Elastic(Data1)|8Core|16G|422G|7.17.1|컴퓨터
+Elastic(Data2)|2Core|6G|100G|7.17.1|VMware
+Kibana|4Core|8G|90G|7.17.1|VMware
+HDFS(NameNode)|4Core|8G|200G|3.2.2|컴퓨터
+HDFS(Worker1)|8Core|16G|550G|3.2.2|컴퓨터
+HDFS(Worker2)|8Core|16G|424G|3.2.2|컴퓨터
+HDFS(SecondNameNode)|4Core|8G|90G|3.2.2|VMware
+Spark(MasterNode)|4Core|8G|200G|3.1.2|컴퓨터
+Spark(SlaveNode1)|8Core|16G|550G|3.1.2|컴퓨터
+Spark(SlaveNode2)|8Core|16G|550G|3.1.2|컴퓨터
+Spark(SlaveNode3)|8Core|16G|424G|3.1.2|컴퓨터
 
 ## 프로그램의 설정파일
 
