@@ -24,7 +24,7 @@
 Django_server-Web service|1Core|1G|8G|0|EC2
 Django_server-Web service|1Core|1G|8G|0|EC2
 Python(crawling)-유튜브 실시간 채팅|6Core|10G|0|0|window
-Python(crawling)-유투브 인기영상중 카테고리들|6Core|10G|0|0|window
+Python(crawling)-유튜브 인기영상중 카테고리들|6Core|10G|0|0|window
 RabbitMQ|2Core|8G|20G|3.6.10|VMware
 Logstash|3Core|6G|20G|1:7.17.1-1|VMware
 Elastic(Master)|2Core|8G|20G|7.17.1|VMware
