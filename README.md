@@ -50,6 +50,7 @@ Spark(SlaveNode3)|8Core|16G|424G|3.1.2|컴퓨터
 ## 웹 프로젝트
 <img width="80%" src="https://user-images.githubusercontent.com/102707438/161176374-95d6133c-80d3-465d-a8ce-267d68584e15.png"/>
 <img width="80%" src="https://user-images.githubusercontent.com/102707438/161176460-efe09896-c1c6-4b84-9fd1-eaddf51b583f.png"/>
+
 ## 분석코드
 ### `crawling_news.py`
 - ytn news의 실시간 채팅창을 크롤링해서 rabbitmq의 news queue로 보냄.
