@@ -5,10 +5,10 @@
 - 기간 : 2022.3.14 ~ 2022.4.1
 
 ## 프로젝트의 팀원별 역할
->- 김선민 : Elastic 클러스터링구성, Kibana시각화, 웹, ES->HDFS 코드, 로그스태시 설정
->- 양정헌 : Hadoop 구성,
->- 박영후 : 데이터 크롤링
->- 송봉기 : RabbitMQ 구성
+>- 김선민 : Elasticsearch clustering , Spark setting, Python coding, Web, dfango, Kibana, Data Diagram, Logstash setting
+>- 양정헌 : Hadoop node setting, Spark setting, Python coding, Es setting
+>- 박영후 : Crawling coding in python, Rabbitmq setting, Logstash setting
+>- 송봉기 : Pandas coding in python, Rabbitmq setting, Git
 
 ## 데이터 분석의 목적
 >- 최신 인기 동영상의 댓글, 좋아요, 채널 구독자 등의 영상 정보를 수집
