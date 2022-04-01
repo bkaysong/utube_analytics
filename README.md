@@ -41,6 +41,11 @@ Spark(SlaveNode2)|8Core|16G|550G|3.1.2|컴퓨터
 Spark(SlaveNode3)|8Core|16G|424G|3.1.2|컴퓨터
 
 ## 프로그램의 설정파일
+### RabbitMQ
+- `rabbitmq.config` : 
+- `rabbitmq-env.conf` :
+### Logstash
+- `logstash-ubube.conf` :
 
 ## 웹 프로젝트
 
