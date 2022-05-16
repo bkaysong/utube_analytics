@@ -1,8 +1,8 @@
 # 유튜브 데이터를 활용한 데이터 분석
 ----------------------------------
-- 팀명 : 3팀
-- 팀원 : 김선민, 양정헌, 박영후, 송봉기
-- 기간 : 2022.3.14 ~ 2022.4.1
+* 팀명 : 3팀
+* 팀원 : 김선민, 양정헌, 박영후, 송봉기
+* 기간 : 2022.3.14 ~ 2022.4.1
 
 ## 프로젝트의 팀원별 역할
 >- 김선민 : Elasticsearch clustering , Spark setting, Python coding, Web, dfango, Kibana, Data Diagram, Logstash setting
