@@ -5,7 +5,7 @@
 * 기간 : 2022.3.14 ~ 2022.4.1
 
 ## 프로젝트의 팀원별 역할
->- 김선민 : Elasticsearch clustering , Spark setting, Python coding, Web, dfango, Kibana, Data Diagram, Logstash setting
+>- 김선민 : Elasticsearch clustering , Spark setting, Python coding, Web, django, Kibana, Data Diagram, Logstash setting
 >- 양정헌 : Hadoop node setting, Spark setting, Python coding, Es setting
 >- 박영후 : Crawling coding in python, Rabbitmq setting, Logstash setting
 >- 송봉기 : Pandas coding in python, Rabbitmq setting, Git
