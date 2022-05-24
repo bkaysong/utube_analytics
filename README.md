@@ -3,7 +3,7 @@
 * 팀명 : 3팀
 * 팀원 : 김선민, 양정헌, 박영후, 송봉기
 * 기간 : 2022.3.14 ~ 2022.4.1
-
+* 발표영상 : https://www.youtube.com/watch?v=XMPgMGeZ88I&t=834s
 ## 프로젝트의 팀원별 역할
 >- 김선민 : Elasticsearch clustering , Spark setting, Python coding, Web, django, Kibana, Data Diagram, Logstash setting
 >- 양정헌 : Hadoop node setting, Spark setting, Python coding, Es setting
